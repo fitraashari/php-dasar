@@ -5,7 +5,7 @@
         <input type="text" name="keyword" class="keyword form-control" id="keyword" size="30" autofocus placeholder="Masukkan keyword pencarian" autocomplete="off" >
         </div>
         <button type="submit" name="cari" class="tombolcr" id="tombolcr">Cari</button>
-        <img src="img/loading.gif" class="loading" width="30px">
+        <img src="img/loading.gif" class="loading" width="40px">
     </div>
     </form>
     <div id="container">
